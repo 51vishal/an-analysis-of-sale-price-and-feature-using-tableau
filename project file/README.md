@@ -1,1 +1,0 @@
-# an-analysis-of-sale-price-and-feature-using-tableau
